@@ -1,0 +1,151 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/almanac.pw.toml"
+hash = "9d2a747b7e187cee08ae8b4aecfa8c9038031e844880d63b37871f01c7941add"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "4d8fb6602a68d3707aba07b09826b9ef95fab2754f87c01613b5b88ea159b38c"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "db77df7813f6b21f74065229e3ae8568c02209543efadeb1a4eebd40fb520ea8"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "35825518fcea9fd0ed1091fe7bafaf62323e66e32fa47a10ad9155194c119e0f"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "11b522d464ba3a768467674cd0a936a534e6eced371973fc72de56c4d6bbdc1f"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "ca1a36e0446baff9ada9929ef44552a57fc01f1a5b288029ad7b3d7aa14ffa43"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "01735a9d638c8fb4896c1a700eff0954aff8b854b517036bd9688e1d1754a7af"
+metafile = true
+
+[[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "bbb9ea7a6ed75a93b718d77f883084ef11d19df3d2db0a26eb58c9782fe118d2"
+metafile = true
+
+[[files]]
+file = "mods/continents.pw.toml"
+hash = "49ecefc42964de5b4a69bc66905c52c97f657c15f6368d0813a1444978c42667"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "2e71ee44474a88d29b5e02600928bbf11fc74e7ae02d23c73547f0af9e7892e5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "03e71ca4ecc9dc66657a5b58cb11eaecd21ffaf445682c7d9d761d5359615985"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "80e0bd30f4e1d968f47e24968ca1f4fac8475ba6fa464d6c44b4aebca159be5d"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "c462a3e6a0f624c3c63269c9f025cfc53945d255bf33cf16b930c6482d212757"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "1d274c9c19d6c9e4f913b86c12d639e6b92a92f52f1387b207345a9e2155375a"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "eb0304f36a99dd0ae2e4d5ca325cca5c26c15772c81622fecd8a11cd7c5e6436"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "64663662bd3ff0462976b3d8f6bc9b2fbef47ad4050e9731e877a552d1b76d84"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "b5616e09c4a7d92ce309e447a0d8585baa9e70a895c8a3a2503dc6b47b247827"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "99ee2c2f018e68b54a1f65997876ec4fd41dbbee5d2c1625c9bbe89710cbd405"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "afb686076014eed0142103cd9ae6b536316888bd3e9ffe9a80c075c97f92ab50"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+hash = "58da850c9d42fe2ace59f87f8308a9b13a1698fdfa142f38d829fef4f0a52e6f"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "29e2d8fac39cf77cb303390d8ba9008143c314c0487ced1b2185fecf7bd3b2bd"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "c30391c4a9d653785b20d4bc8bc37bc6b98fa750f13ecb04beb48a492547b91e"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "98b1949cbcbfb8514ad7727dd6aebf375e5990079537511cd387a2af41df6541"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "b51f90510827d96628156a4e9abc851164bba27749ab60681856a6adbb1fab0d"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-refresh.pw.toml"
+hash = "af0adc08830760a1081a659c2d65d836ed47a6a4ffc5f9816b64ccfce97cac39"
+metafile = true
+
+[[files]]
+file = "mods/viafabric.pw.toml"
+hash = "ae8b9ff767b17cc09269d78608dbd58fc2e282ebed102110b02bd427c7406b8c"
+metafile = true
+
+[[files]]
+file = "mods/where-is-it.pw.toml"
+hash = "a92a05278af83fc1820922f81e4a7dacd856eb13293b03d53fdacd439716d64d"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "ba67bac1fa5e81838b2be0469951eef646ec0a890abb2a04aac49bb87512fe1e"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "2b4384af71da7c53830a92baa5b98fa1568cda24bc1b8a30abf0b9685c0863f3"
+metafile = true

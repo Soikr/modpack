@@ -1,0 +1,13 @@
+name = "VanillaAdvanced"
+author = "Soikr"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bf6722dc7c0a590ef427ded5fdb410ce421dbe5aa169577f9893a0cfefb7a9dd"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.21.3"
