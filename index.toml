@@ -101,11 +101,6 @@ hash = "afb686076014eed0142103cd9ae6b536316888bd3e9ffe9a80c075c97f92ab50"
 metafile = true
 
 [[files]]
-file = "mods/nullscape.pw.toml"
-hash = "58da850c9d42fe2ace59f87f8308a9b13a1698fdfa142f38d829fef4f0a52e6f"
-metafile = true
-
-[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "29e2d8fac39cf77cb303390d8ba9008143c314c0487ced1b2185fecf7bd3b2bd"
 metafile = true
