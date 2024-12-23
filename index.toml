@@ -39,13 +39,13 @@ hash = "01735a9d638c8fb4896c1a700eff0954aff8b854b517036bd9688e1d1754a7af"
 metafile = true
 
 [[files]]
-file = "mods/debugify.pw.toml"
-hash = "b29157b97ddc91b9e027ee116121b851b86161a1dc3f50e7466729e6dc5d1abd"
+file = "mods/coord-finder.pw.toml"
+hash = "f4c2151d7089d05712a76705a5a5f6bac6eb30b73f8b569f5e93c998e53e2692"
 metafile = true
 
 [[files]]
-file = "mods/explorify.pw.toml"
-hash = "fd38874e163e22c18c1b110918f601a822a065119636a2458f7743679d5f0f7d"
+file = "mods/debugify.pw.toml"
+hash = "b29157b97ddc91b9e027ee116121b851b86161a1dc3f50e7466729e6dc5d1abd"
 metafile = true
 
 [[files]]
@@ -106,11 +106,6 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "97608890817d0e6a374dd81bff3ecb094fb989af5581a29cf7019717a5ed16e2"
-metafile = true
-
-[[files]]
-file = "mods/nullscape.pw.toml"
-hash = "ba27bd9b6dac77d7c57a998bd1764172cc9ce6c4356720632733a795d899f4db"
 metafile = true
 
 [[files]]
