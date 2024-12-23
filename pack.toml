@@ -1,4 +1,4 @@
-name = "VanillaAdvanced"
+name = "VanillaOptimized"
 author = "Soikr"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b79e7f27da101a55602f1d8d92a0398d04bde42a56480213a001332506f8a982"
+hash = "c5598455955da360818aa23abaa1f73174c62ec3e6b54ce0113541040ec59889"
 
 [versions]
 fabric = "0.16.9"
-minecraft = "1.21.3"
+minecraft = "1.21.4"
