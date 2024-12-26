@@ -24,6 +24,11 @@ hash = "db77df7813f6b21f74065229e3ae8568c02209543efadeb1a4eebd40fb520ea8"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e5287e0bfeaec81c0108148e7fd39ddcdd7f372428c157aef89a8e7fcdb6d156"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "ee001240e3b1d2148ea7891c91c8da2e0954b5e2f05a7fa81d6fc7fb7e7036bb"
 metafile = true
@@ -36,6 +41,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "01735a9d638c8fb4896c1a700eff0954aff8b854b517036bd9688e1d1754a7af"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "2fe7f730ed1e69326a938cca8db3dd4d4452b05cddb856cb50b5478b2ae79fe0"
 metafile = true
 
 [[files]]
@@ -106,6 +116,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "97608890817d0e6a374dd81bff3ecb094fb989af5581a29cf7019717a5ed16e2"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "08258b2939f52cf81b758a30be31eb7fea11ad9919adf7644518d7fafd7efb34"
 metafile = true
 
 [[files]]
