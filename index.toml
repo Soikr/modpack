@@ -30,12 +30,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ee001240e3b1d2148ea7891c91c8da2e0954b5e2f05a7fa81d6fc7fb7e7036bb"
+hash = "9e60eb32574d2cdcb421ccc6a4dfb46ca289254887a9bded9677d0f3460a452c"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "45c429847a386d59c5885ba076f70fdac1573d51e5c529fae339238a7983647d"
+hash = "43b88cb108965a78a68596db14652db21fa5eb2d3f55ce664597af6cfd7c7ae5"
 metafile = true
 
 [[files]]
@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "83e03e7595c1b32114530aa9c1ed9052f2721ab39f3efe9575326b5579e7ef89"
+hash = "6184fab619e2400c54f8fadbb81033eb7dea9a4934a2fc870c609514e475a7ac"
 metafile = true
 
 [[files]]
