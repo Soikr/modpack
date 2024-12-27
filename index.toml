@@ -49,6 +49,11 @@ hash = "2fe7f730ed1e69326a938cca8db3dd4d4452b05cddb856cb50b5478b2ae79fe0"
 metafile = true
 
 [[files]]
+file = "mods/continents.pw.toml"
+hash = "f025d57624912079132624a61675305f7c4c15aea6619afc8d247783c62dab92"
+metafile = true
+
+[[files]]
 file = "mods/coord-finder.pw.toml"
 hash = "f4c2151d7089d05712a76705a5a5f6bac6eb30b73f8b569f5e93c998e53e2692"
 metafile = true
