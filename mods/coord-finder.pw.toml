@@ -1,13 +1,13 @@
 name = "Coord Finder"
-filename = "coordfinder-fabric-1.21.4-1.1.0.jar"
+filename = "coordfinder-fabric-1.20.1-1.1.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/kPkTtp4N/versions/UacLsNLJ/coordfinder-fabric-1.21.4-1.1.0.jar"
-hash-format = "sha1"
-hash = "18d49956308f7af46e1e9e92f880911af5dccc26"
+url = "https://cdn.modrinth.com/data/kPkTtp4N/versions/480Yjawx/coordfinder-fabric-1.20.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "b5156a432cc4e0a06c516d1918893806a9467080b8275d379436f3fe078b004034ca6f93b5a95997251c823a7b758632f261d4c71ca53787baa2f1c32795ed59"
 
 [update]
 [update.modrinth]
 mod-id = "kPkTtp4N"
-version = "UacLsNLJ"
+version = "480Yjawx"

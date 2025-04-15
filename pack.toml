@@ -1,4 +1,4 @@
-name = "VanillaOptimized"
+name = "SimpleModpack"
 author = "Soikr"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c8610fd9a309a60edd21f6a1dcec2aab35cf9d78d79db7563d77af5d663ecd76"
+hash = "bbad5c07679990520cf0ed894e3b945c37b1f4584f038002d7dc220f05dd4845"
 
 [versions]
-fabric = "0.16.9"
-minecraft = "1.21.4"
+fabric = "0.16.13"
+minecraft = "1.20.1"
