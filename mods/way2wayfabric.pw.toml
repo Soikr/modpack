@@ -7,6 +7,10 @@ url = "https://cdn.modrinth.com/data/lO0vzQUy/versions/IBsP5dyt/way2wayfabric-0.
 hash-format = "sha512"
 hash = "b1c257fa4332637723e01bc49036d2d0b48f053b50045a20ce2db269fb38d5e1803352426014f1cc7000a910e6b427d9b62122b76670c5ac61d55fcd0f49d60f"
 
+[option]
+optional = true
+description = "REQUIRES XAERO MAPS"
+
 [update]
 [update.modrinth]
 mod-id = "lO0vzQUy"
