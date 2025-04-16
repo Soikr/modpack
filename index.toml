@@ -88,6 +88,11 @@ hash = "3ef96a88003584f3bb0e249aeb102b977400fab8718201f3325dd6ced30e4315"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "5ba003768a235ab0d811218191166f9aefa4c9a2509341fbba1efd80e18d3676"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "72b23c18039d65a955bfa111b87af4c0cbce8893e539d644e5a4449f3e473ec9"
 metafile = true
@@ -108,8 +113,13 @@ hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "15385164e2cd07cce7493a10d6d87df5c7bce587a866613126be3b54b6b28fc7"
+metafile = true
+
+[[files]]
 file = "mods/continents.pw.toml"
-hash = "d6da3d9e4834b857398f1e50bcaddd5b2a47ee1be0164adc9bc8fd7be3534599"
+hash = "74f0fcb052a85e6eef46e30fab5c13bd36401840f151b8c2b4a6dcb865d3015b"
 metafile = true
 
 [[files]]
@@ -158,6 +168,11 @@ hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fullbright.pw.toml"
+hash = "7d87efcf32aa540845f4de950d2015224c47049f2a5b2be3e352244243931127"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "2d44be0de504bd05e2f6f2e4644f5d7afd2401adcdff92c19871db204e121988"
 metafile = true
@@ -183,6 +198,11 @@ hash = "42fcea3c5eae92f32d6ee70c6eea2ac20c436177923c4ed472b2bf953984b127"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+hash = "19c295cce8b5dc835db5a3af1f78a61dd896a967e4001b5ae1db703381fbc8b4"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "5a0799893adfcd51c7dd6776ee681a5d479ee585b68e1db0b8bf23f5e4f6d382"
 metafile = true
@@ -190,6 +210,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "37421d14755957856ddafed04020b2b23f902f6f4c410fb5bdfc956959f99fba"
 metafile = true
 
 [[files]]
@@ -215,6 +240,11 @@ metafile = true
 [[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "9d72a2126537efbf86ea08ad99994739765b8402e18cad97835931b478b2c584"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "3f678c4ade25a4b4b54aacf25db155658c1ec605bbeaf0ea6b8ed5d0dbc062e1"
 metafile = true
 
 [[files]]
@@ -248,6 +278,11 @@ hash = "50c3264db098f9d4390d21508ab2f6b21a68a2b52eda373d0205569387cdb329"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "e7aaef7215f2419177f1b1d3240d2d61d17ca2b2e03127d92941874ad5594d6f"
+metafile = true
+
+[[files]]
 file = "mods/rei.pw.toml"
 hash = "997d0d212698697471ddfa12c9e8fcb05ac1ffb142f69f44a1fb4904301678a4"
 metafile = true
@@ -259,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+hash = "44c52091b8a96fb3bed74aaa62715db45d60adeb7ba54364b452e6202fdd812a"
 metafile = true
 
 [[files]]
