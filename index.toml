@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fullbright.pw.toml"
-hash = "7d87efcf32aa540845f4de950d2015224c47049f2a5b2be3e352244243931127"
+hash = "b8cf467c1ef40d4e81015e00fa14134f865455f5d63a582c41ae40efe0d08736"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "19c295cce8b5dc835db5a3af1f78a61dd896a967e4001b5ae1db703381fbc8b4"
+hash = "49b6a1032700147cec5900bb0e45cc3cd2047683f7bad9fd0fcef3e6d4baf526"
 metafile = true
 
 [[files]]

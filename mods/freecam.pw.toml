@@ -7,7 +7,7 @@ url = "https://cdn.modrinth.com/data/XeEZ3fK2/versions/dKy60O1Y/freecam-fabric-1
 hash-format = "sha512"
 hash = "82aa4e926b564476fed5a07a52811c9c28c348f5506c4b5648c4979bf6fa69033c86ff15e474d6e26a7f6029ab70ee16aef2a131686c9c83d85357c033a73f26"
 
-[options]
+[option]
 optional = true
 description = "Yeah I allow this just dont abuse it, lets you fly around as a ghost away from your body"
 
