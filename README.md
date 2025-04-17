@@ -31,20 +31,31 @@
 - Create: Power Loader (Fabric)
 - Create: Steam 'n' Rails
 - Debugify
+- Diggus Maximus
+- Dynamic FPS
 - Dynamic Fullbright
+- Ender Dragon Fight Remastered
+- Enhanced Block Entities
+- Entity Culling
 - Fabric API
 - Fabric Language Kotlin
 - FerriteCore
 - Forge Config API Port
 - Forgiving Void
 - Freecam
+- ImmediatelyFast
+- Immersive Paintings
+- Indium
 - Jade 🔍
 - Krypton
 - Leaves Be Gone
 - Let Me Despawn
 - Lithium
 - Memory Leak Fix
+- Mod Menu
 - ModernFix
+- Moonlight Lib
+- More Culling
 - Mythic Metals
 - Nature's Compass
 - NetherPortalFix
@@ -56,7 +67,10 @@
 - Puzzles Lib
 - Roughly Enough Items (REI)
 - Simple Voice Chat
+- Sit
+- Sodium
 - spark
+- Supplementaries
 - Terralith
 - Traveler's Backpack
 - Vanish
