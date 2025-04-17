@@ -73,6 +73,11 @@ hash = "dd8057c40ff94e9a21a121583884f71c9a6b1eaa6f913ef46c5d1f9b37fe487f"
 metafile = true
 
 [[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "92b54fed693e725faa96e793b643cb5245494643830f2a4e277d6c7150368e7d"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
 metafile = true
@@ -104,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "b1581bbfae9d16690f4022536da6567f000130c4ea5e04d92177c1bc61fea709"
+hash = "fed6f66373bb06b6ff552c97cd9cdbdf78ec429320252619e563f9a4fb65feb9"
 metafile = true
 
 [[files]]
@@ -168,8 +173,33 @@ hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
 metafile = true
 
 [[files]]
+file = "mods/diggus-maximus.pw.toml"
+hash = "978a739eb54343effd082d0d5f63b51edd48f7a2e9cb7da15a4a63fc981f3d6f"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "55135033f5343246bd45e130861353af5d95b0ab83d88af2a986144b6b77f7fa"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fullbright.pw.toml"
 hash = "b8cf467c1ef40d4e81015e00fa14134f865455f5d63a582c41ae40efe0d08736"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "c9102ad224c1496927d326707ee2cd2a2cfd6f278f05e23a19aa45395306daf6"
+metafile = true
+
+[[files]]
+file = "mods/edf-remastered.pw.toml"
+hash = "b8f4c6a7a6ca91737bdae663eebc6315dcf2a4fcb0ad7715aa8730bb6f0c1382"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "e286c31c1b559e037730992bdc995383f6e783baa7b8c6c625e52c48a509d8b0"
 metafile = true
 
 [[files]]
@@ -200,6 +230,16 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "49b6a1032700147cec5900bb0e45cc3cd2047683f7bad9fd0fcef3e6d4baf526"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "979d10182ce335d75f52957ecdc4da32ec77ce612b0bf4517c1f9b4af6012ddd"
 metafile = true
 
 [[files]]
@@ -235,6 +275,21 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "10d0880665a5abd65af746a8c473048a8ac0b3803631b3bcf18cee2eba0a1f28"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "230c231ae1dcd4ee08b0cacf8c9cd617e7c0b0533609f92dfe82e53287d5a9f7"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "dbb344ad3e49c36d167fa05b6c5f674794306b1727220e8720d767264aee497f"
 metafile = true
 
 [[files]]
@@ -284,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "997d0d212698697471ddfa12c9e8fcb05ac1ffb142f69f44a1fb4904301678a4"
+hash = "7e7e68a9a553bb27b4c3abf58561af0709e5e0922e9a6e1203e58a82c1b91d89"
 metafile = true
 
 [[files]]
@@ -293,13 +348,23 @@ hash = "9ac19e450b2ab871a645079b185bdf976891c62702b4d3b07307941feee0632a"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "44c52091b8a96fb3bed74aaa62715db45d60adeb7ba54364b452e6202fdd812a"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "bea541cfe919d9fee2275295d7e5cd203fcba7aa2731c0f979961bd9a5fb3efb"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
-hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+hash = "f26fb3886f4c53b3284264cacfebb4bfe68a189205363e8e406896c847c1e0ea"
 metafile = true
 
 [[files]]
