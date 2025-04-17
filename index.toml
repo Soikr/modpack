@@ -1,16 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bclib/client.json"
+hash = "ac12976e3e553da18c3ead6ad833f1215fcf90f0647653b66128ea25f92af598"
+
+[[files]]
 file = "config/debugify.json"
 hash = "58aefaca2c36b30a5457b737645754f564d5d7fa51df8880b9596fc998ab1cc6"
+
+[[files]]
+file = "config/diggusmaximus/config.json5"
+hash = "c9330d8bd66674bcf5bd2787293913313295581d0be50a9575557df0fefdc0e3"
 
 [[files]]
 file = "config/lithium.properties"
 hash = "928fdb1e604e394de7389a4b7a7f230fe6863a468e1839bee22d80652ea0d31f"
 
 [[files]]
+file = "config/supplementaries-client.json"
+hash = "df64b9e319b724bcc7a0b5af2602afce22d376a721bd830440f85c5401169eb4"
+
+[[files]]
 file = "config/waystones-common.toml"
-hash = "c812f495e27128ee069a45a1ac80cc0772310463571a8b74b401fd93262fe143"
+hash = "63e410aaa04001d3e7e4e0c6e88c17dfd91ccc73b69dc60fc8e47d774f26136b"
 
 [[files]]
 file = "mods/ae2-qol-recipes.pw.toml"
